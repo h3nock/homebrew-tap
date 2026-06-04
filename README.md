@@ -2,6 +2,7 @@
 
 ## Formulae
 
+- `codex-meter`: Lightweight terminal dashboard for Codex usage.
 - `winpick`: macOS CLI for selecting and focusing windows.
 
 ## How do I install these formulae?
