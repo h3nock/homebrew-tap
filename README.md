@@ -1,5 +1,9 @@
 # H3nock Tap
 
+## Formulae
+
+- `winpick`: macOS CLI for selecting and focusing windows.
+
 ## How do I install these formulae?
 
 `brew install h3nock/tap/<formula>`
