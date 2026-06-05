@@ -2,6 +2,7 @@
 
 ## Formulae
 
+- `clipper`: Keyboard-first macOS screenshots for developer workflows.
 - `codex-meter`: Lightweight terminal dashboard for Codex usage.
 - `winpick`: macOS CLI for selecting and focusing windows.
 
