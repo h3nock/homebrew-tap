@@ -1,6 +1,7 @@
 class CodexMeter < Formula
   desc "Lightweight terminal dashboard for Codex usage"
   homepage "https://github.com/h3nock/codex-meter"
+  version "0.1.0"
   license "MIT"
 
   if Hardware::CPU.arm?
